@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Georama:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Georama:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 @import "tailwindcss";
 
@@ -86,7 +86,7 @@ body {
     }
 
     .tooltip {
-      @apply py-1! px-3! w-fit! text-center! text-xs! rounded-md! bg-blue-200! text-blue-900! shadow-2xl!;
+      @apply py-1 ! px-3 ! w-fit ! text-center ! text-xs ! rounded-md ! bg-blue-200 ! text-blue-900 ! shadow-2xl !;
     }
 
     .dock-icon {
